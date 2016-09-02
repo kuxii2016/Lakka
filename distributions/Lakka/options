@@ -275,6 +275,7 @@
 "Nintendo - Super Nintendo Entertainment System.lpl;"\
 "Nintendo - Virtual Boy.lpl;"\
 "Quake1.lpl;"\
+"craft.lpl;"\
 "ScummVM.lpl;"\
 "Sega - 32X.lpl;"\
 "Sega - Game Gear.lpl;"\
@@ -286,7 +287,10 @@
 "SNK - Neo Geo Pocket Color.lpl;"\
 "SNK - Neo Geo Pocket.lpl;"\
 "Sony - PlayStation Portable.lpl;"\
-"Sony - PlayStation.lpl"
+"Sony - PlayStation.lpl;"\
+"content_music_history.lpl;"\
+"content_video_history.lpl;"\
+"content_image_history.lpl"
 
   RA_PLAYLIST_CORES=""\
 "/tmp/cores/stella_libretro.so;"\
@@ -335,4 +339,5 @@
 "/tmp/cores/mednafen_ngp_libretro.so;"\
 "/tmp/cores/mednafen_ngp_libretro.so;"\
 "/tmp/cores/ppsspp_libretro.so;"\
-"/tmp/cores/pcsx_rearmed_libretro.so"
+"/tmp/cores/pcsx_rearmed_libretro.so;"\
+"/tmp/cores/craft_libretro.so"
